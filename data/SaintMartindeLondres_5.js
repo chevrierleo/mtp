@@ -1,0 +1,1 @@
+var json_SaintMartindeLondres_5 = {"type":"FeatureCollection","name":"SaintMartindeLondres_5","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"fid":"1"},"geometry":{"type":"Point","coordinates":[3.732027121274587,43.788999146416408]}}]}
